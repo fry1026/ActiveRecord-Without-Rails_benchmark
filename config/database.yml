@@ -1,0 +1,7 @@
+host: 'localhost'
+adapter: 'postgresql'
+database: 'benchmarking3'
+username: 'postgres'
+password: 'postgres'
+encoding: 'utf8'
+pool: 5
